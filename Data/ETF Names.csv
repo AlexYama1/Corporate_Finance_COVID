@@ -1,0 +1,15 @@
+Sector,US_Ticker,US_Fund_Name,US_Tracks_Notes,JP_Ticker,JP_Fund_Name,JP_Tracks_Notes
+Computer & Technology,XLK,Technology Select Sector SPDR Fund,S&P 500 technology sector (Select Sector).,1625.T,NEXT FUNDS TOPIX-17 Electric Appliances & Precision Instruments ETF,TOPIX-17 tech hardware/components.
+Medical,XLV,Health Care Select Sector SPDR Fund,S&P 500 health care sector (pharma/biotech/equipment/providers).,1621.T,NEXT FUNDS TOPIX-17 Pharmaceutical ETF,TOPIX-17 pharma only (narrower than US health care).
+Oils/Energy,XLE,Energy Select Sector SPDR Fund,S&P 500 energy sector.,1618.T,NEXT FUNDS TOPIX-17 Energy Resources ETF,TOPIX-17 energy resources.
+Retail/Wholesale,XRT,SPDR S&P Retail ETF,S&P Retail Select Industry Index; modified equal-weight (broad retail).,1629.T,NEXT FUNDS TOPIX-17 Commercial & Wholesale Trade ETF,TOPIX-17 commercial & wholesale trade.
+Consumer Staples,XLP,Consumer Staples Select Sector SPDR Fund,S&P 500 consumer staples sector.,1617.T,NEXT FUNDS TOPIX-17 Foods ETF,Closest JP staples sleeve (foods).
+Business Services,IGV,iShares Expanded Tech-Software Sector ETF,North American software/IT services proxy.,1626.T,"NEXT FUNDS TOPIX-17 IT & Services, Others ETF",TOPIX-17 IT & services (closest JP counterpart).
+Basic Materials,XLB,Materials Select Sector SPDR Fund,S&P 500 materials sector.,1620.T,NEXT FUNDS TOPIX-17 Raw Materials & Chemicals ETF,TOPIX-17 raw materials & chemicals.
+Utilities,XLU,Utilities Select Sector SPDR Fund,S&P 500 utilities sector.,1627.T,NEXT FUNDS TOPIX-17 Electric Power & Gas ETF,TOPIX-17 electric power & gas.
+Aerospace,ITA,iShares U.S. Aerospace & Defense ETF,U.S. aerospace & defense equities.,1624.T,NEXT FUNDS TOPIX-17 Machinery ETF,JP proxy via machinery (aerospace supply chain).
+Industrial Products,XLI,Industrials Select Sector SPDR Fund,S&P 500 industrials sector.,1623.T,NEXT FUNDS TOPIX-17 Steel & Nonferrous Metals ETF,Industrial inputs; complements Machinery proxy.
+Consumer Discretionary,XLY,Consumer Discretionary Select Sector SPDR Fund,S&P 500 consumer discretionary sector.,1630.T,NEXT FUNDS TOPIX-17 Retail Trade ETF,TOPIX-17 retail trade (JP discretionary exposure).
+Construction,ITB,iShares U.S. Home Construction ETF,U.S. home construction equities.,1619.T,NEXT FUNDS TOPIX-17 Construction & Materials ETF,TOPIX-17 construction & materials.
+Transportation,IYT,iShares U.S. Transportation ETF,U.S. transportation (airlines/rails/trucking).,1628.T,NEXT FUNDS TOPIX-17 Transportation & Logistics ETF,TOPIX-17 transportation & logistics.
+Auto/Tires/Trucks,CARZ,First Trust S-Network Future Vehicles & Technology ETF,Global auto/EV ecosystem proxy (note: index changed in 2022).,1622.T,NEXT FUNDS TOPIX-17 Automobiles & Transportation Equipment ETF,TOPIX-17 automobiles & transportation equipment.
